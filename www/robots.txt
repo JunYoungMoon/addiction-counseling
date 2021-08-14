@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://dou.local.co.kr/sitemap.xml
